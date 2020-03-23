@@ -470,4 +470,3 @@ def zwaveEvent(physicalgraph.zwave.commands.configurationv2.ConfigurationReport 
 def zwaveEvent(physicalgraph.zwave.commands.multichannelv3.MultiChannelCapabilityReport cmd) {
 	//log.debug "Greenwave v3 multi channel capability report received"
 }
-
